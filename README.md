@@ -3,6 +3,14 @@
 
 <div>
   <p align="center">
+  <a href="https://www.linkedin.com/in/jaimelay-/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaimelay" height="20" width="20" />
+  </a>
+  <a href="https://instagram.com/jaime_lay" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jaimelay" height="20" width="20" />
+  </a>
+</p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jaimelay" alt="jaimelay" />
   </p>
 </div>
@@ -11,15 +19,4 @@
 
 - 📫 How to reach me **jaimelay1997@gmail.com**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaimelay-/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaimelay" height="20" width="20" />
-  </a>
-  <a href="https://instagram.com/jaime_lay" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jaimelay" height="20" width="20" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaimelay&show_icons=true" alt="jaimelay" />
-</p>

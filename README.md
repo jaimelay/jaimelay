@@ -1,6 +1,4 @@
 <h1 align="center">Hi there, I'm Jaime Lay 👋</h1>
-<h4 align="center">A computer science student interested in game development, web development and competitive programming.</h4>
-
 <div>
   <p align="center">
   <a href="https://www.linkedin.com/in/jaimelay-/" target="blank">
